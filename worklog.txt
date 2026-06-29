@@ -38,3 +38,6 @@
        8 data/results_2025.csv
       13 total
       Changed README text
+      diff files contain changes (additions/deletions) to a file
+      pydantic repo is structured into docs, pydantic, pydantic-core, releases and tests.
+      the last 10 pydantic commits show that the author fixed some bugs, added agent skills, and fixed dead links
