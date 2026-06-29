@@ -1,3 +1,2 @@
-Project: Data Pipeline v0.3
-Status: abandoned (developer left 2025-11)
-See notes.txt for context.
+Modules 1&2 of Power AI Course by Francis Coyle
+Started June 2026
